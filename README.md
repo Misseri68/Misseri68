@@ -1,5 +1,5 @@
 # 💫 About Me:
-  🌱 I’m currently learning Java, Android, Hibernate, JPA, MySQL.
+  🌱 I’m currently learning Java, Android, Hibernate, JPA, MySQL, Spring, Angular, Typescript.
 
 
 ## 🌐 Socials:
