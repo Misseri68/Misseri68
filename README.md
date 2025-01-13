@@ -19,4 +19,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![Misseri68 profile views](https://u8views.com/api/v1/github/profiles/70648183/views/day-week-month-total-count.svg)](https://u8views.com/github/Misseri68)
