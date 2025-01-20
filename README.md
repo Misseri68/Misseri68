@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-👩🏻‍🎓I've learnt Java, multi-threading, Android, HTML5, CSS, JDBC, Hibernate, JPA, SQL, and Angular.<br>🌱 I’m currently doing a Master of Full Stack. I'll learn Vue.js, React, JavaScript, TypeScript, and some back-end technologies during this year.<br><br>
+👩🏻‍🎓I've learnt Java, multi-threading, Android, HTML5, CSS, JDBC, Hibernate, JPA (Jakarta EE), SQL, and Angular.<br>🌱 I’m currently doing a Master of Full Stack. I'll learn Jquery, Vue.js, React, JavaScript, TypeScript, .NET CORE, and some other back-end technologies during this year.<br><br>
 
 
 ## 🌐 Socials:
